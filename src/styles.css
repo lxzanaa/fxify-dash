@@ -117,3 +117,10 @@ body {
   align-items: center !important;
   justify-content: center !important;
 }
+
+.table-statistics:last-child {
+  border-radius: 0 10px 10px 0;
+}
+.table-statistics:first-child {
+  border-radius: 10px 0 0 10px;
+}
